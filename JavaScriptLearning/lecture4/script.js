@@ -131,12 +131,12 @@
 //c.Add Amaxon at the end
 
 
-let companies = ["Boomberg","Microsoft","Uber","Google","IBM"
-,"Netflix"];
-console.log(companies);
- companies.shift();
- companies.splice(2,1,"Ola");
- companies.push("Amazon");
+// let companies = ["Boomberg","Microsoft","Uber","Google","IBM"
+// ,"Netflix"];
+// console.log(companies);
+//  companies.shift();
+//  companies.splice(2,1,"Ola");
+//  companies.push("Amazon");
 
 
 
