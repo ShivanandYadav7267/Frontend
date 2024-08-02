@@ -1,0 +1,26 @@
+/* .header {          // Down style
+    color: blue;
+    text-decoration: solid;
+    background-color: rgb(231, 147, 231);
+    
+}
+body{
+    background-color: cadetblue;
+}
+button{
+    background-color: aqua;
+    color: blue;
+} */
+
+
+
+
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
