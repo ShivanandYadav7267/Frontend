@@ -126,17 +126,17 @@
 
 // Question no. 2
 // Write a code can give grades to students according to this scores:
-let Score = prompt("Enter your score (0-100):");
-let Grade;
-if (Score >= 80 && Score <= 100){
-    Grade = "A";
-} else if (Score >= 70 && Score <= 79){
-    Grade = "B";
-}else if (Score >= 60 && Score <= 69){
-    Grade = "C";
-}else if (Score >= 50 && Score <= 59){
-    Grade = "D";
-}else if (Score >= 0 && Score <= 49){
-    Grade = "F";
-}
-console.log("according to your scores,your grade was:",Grade);
+// let Score = prompt("Enter your score (0-100):");
+// let Grade;
+// if (Score >= 80 && Score <= 100){
+//     Grade = "A";
+// } else if (Score >= 70 && Score <= 79){
+//     Grade = "B";
+// }else if (Score >= 60 && Score <= 69){
+//     Grade = "C";
+// }else if (Score >= 50 && Score <= 59){
+//     Grade = "D";
+// }else if (Score >= 0 && Score <= 49){
+//     Grade = "F";
+// }
+// console.log("according to your scores,your grade was:",Grade);
